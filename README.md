@@ -4,8 +4,6 @@
 <p>Welcome to my site</br> I'm Daniel, Currently learning to be a Full Developer 💻   
 Some interesting facts about me: I love to travel, I speak some mandarin   and I like pesto sooo much</p>
 
-<!--
-**LieC4/LieC4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 <h1 align="center">Hi , I'm Daniel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
